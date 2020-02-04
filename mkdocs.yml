@@ -1,0 +1,8 @@
+site_name: Mindustry Wiki
+site_url: https://NyafaKyn.github.io
+repo_url: https://github.com/NyafaKyn/Mindustry-ru
+theme: 
+    name: readthedocs
+    custom_dir: custom_theme/
+extra_css:
+  - 'stylesheets/style.css'
